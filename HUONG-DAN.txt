@@ -1,0 +1,19 @@
+ÔN TẬP KHOA HỌC TỰ NHIÊN 6
+
+MỞ: Giải nén toàn bộ ZIP, mở index.html bằng trình duyệt trên máy tính. Giữ data.js, app.js, style.css và thư mục assets cạnh index.html. Trên iPhone/iPad dùng địa chỉ web được gửi trong cuộc trò chuyện; ứng dụng xem trước tệp có thể không chạy JavaScript.
+
+NỘI DUNG: 30 câu nhiều lựa chọn, 6 nhóm đúng–sai (24 ý), 6 câu ngắn: 60 đơn vị trả lời từ 42 câu gốc. 4 câu tự luận có gợi ý. 77 flashcard gồm cả tự luận, bài tính và 9 phép đổi đơn vị. Ảnh biển báo gốc được giữ nguyên. Đáp án giữ theo tài liệu. Mục Tài liệu gốc đánh dấu phần I câu 7 và 22 cần kiểm tra cách diễn đạt.
+
+HỌC: Luyện tập chấm ngay và khóa đáp án trong lượt đó. Làm đề cho sửa đáp án rồi Nộp bài. Câu ngắn nhập số, có thể bỏ đơn vị; trong làm đề cần bấm Lưu câu trả lời. Flashcard tự nhớ trước khi Hiện đáp án, đánh giá Nhớ rồi / Hơi quên / Không nhớ. Ôn câu sai ưu tiên câu sai nhiều lần, làm đúng thì đưa ra khỏi danh sách cần ôn. Tự luận cho viết nháp rồi mở gợi ý.
+
+TIẾN ĐỘ: Lưu trên trình duyệt/thiết bị hiện tại bằng localStorage. Tải lại trang giữ tiến độ và lượt đang học. Đổi thiết bị, địa chỉ web hoặc xóa dữ liệu trình duyệt sẽ có tiến độ riêng. Xóa toàn bộ tiến độ có xác nhận.
+
+GITHUB PAGES: Đưa toàn bộ nội dung thư mục giải nén vào gốc repository. index.html ở gốc, giữ nguyên assets. Bật Pages cho nhánh/thư mục đó. Không đặt thêm thư mục cha làm index.html nằm sâu thêm một cấp.
+
+MÔN KHÁC: Thay QUESTION_BANK và STUDY_CONTENT trong data.js. Chỉnh META.title, description, id (ID mới để không trộn tiến độ), originalCount, sources. Nội dung bổ sung ESSAYS, SOURCE_DOCUMENT, META.warnings cần cập nhật hoặc để mảng rỗng / chuỗi rỗng.
+QUESTION_BANK: id cố định; type = mc / tf / short; question, options, answer, explanation, topic, source, image, note nếu có. MC/TF answer luôn là khóa ổn định trong options; xáo trộn chỉ đổi thứ tự hiển thị. Short dùng options={} và đáp án dạng số hoặc số kèm đơn vị. Không chấm tự luận tự động.
+STUDY_CONTENT: id, front, back, explanation, topic, source, image nếu có.
+study-data.json là bản dữ liệu tham khảo; website sử dụng data.js. Đổi dữ liệu cần sửa data.js.
+Chưa tích hợp AI tự đọc tài liệu mới: cần trích xuất và kiểm tra câu hỏi, đáp án, giải thích, hình, bảng, nội dung mâu thuẫn trước khi thay dữ liệu. Không tự đoán đáp án.
+
+KIỂM TRA: Đối chiếu toàn bộ câu hỏi/lựa chọn với Word không đáp án; kiểm tra logic đủ 60 đơn vị chấm, xáo trộn, khóa đáp án, phản hồi ngay, ôn sai, làm đề/sửa/nộp bài, lưu tải lại, flashcard, thẻ quên và nháp tự luận bằng DOM tự động; 77 mặt sau flashcard đối chiếu với nguồn. Kiểm tra cú pháp JS và đường dẫn ảnh. CSS hỗ trợ mobile và dark mode; chưa kiểm tra trực quan bằng trình duyệt điện thoại thực trong phiên tạo này.

@@ -1,0 +1,1684 @@
+{
+  "META": {
+    "id": "khtn6-midterm-2026-v1",
+    "title": "Khoa học tự nhiên 6",
+    "description": "Ôn tập giữa kì I · Năm học 2026–2027 · Bài 1 đến bài 11",
+    "originalCount": 42,
+    "sources": [
+      "De_cuong_KHTN6_Dap_an_Giai_thich(3).docx",
+      "De_cuong_KHTN6_Khong_dap_an(2).docx"
+    ],
+    "warnings": [
+      "Phần I · Câu 7: Cần kiểm tra với giáo viên: lời giải của tài liệu ghi “Theo cách trình bày trong tài liệu”, sử dụng mô tả kilogram gắn với quả cân mẫu. Website giữ nguyên đáp án D.",
+      "Phần I · Câu 22: Cần kiểm tra cách diễn đạt: câu gộp “nước đóng băng” và “tuyết rơi”, trong khi giải thích chỉ nói nước lỏng chuyển sang rắn. Giữ nguyên đáp án B theo tài liệu."
+    ]
+  },
+  "QUESTION_BANK": [
+    {
+      "id": "MC01",
+      "type": "mc",
+      "question": "Kính lúp cầm tay thông thường có thể phóng to ảnh của vật lên khoảng bao nhiêu lần?",
+      "options": {
+        "A": "20 lần.",
+        "B": "200 lần.",
+        "C": "50 lần.",
+        "D": "500 lần."
+      },
+      "answer": "A",
+      "explanation": "Kính lúp cầm tay thông thường có độ phóng đại khoảng vài lần đến khoảng 20 lần.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần I · Câu 1",
+      "image": null
+    },
+    {
+      "id": "MC02",
+      "type": "mc",
+      "question": "Các biển báo dưới đây có ý nghĩa gì?",
+      "options": {
+        "A": "Cấm thực hiện.",
+        "B": "Bắt buộc thực hiện.",
+        "C": "Cảnh báo nguy hiểm.",
+        "D": "Không bắt buộc thực hiện."
+      },
+      "answer": "A",
+      "explanation": "Các hình đều có vòng tròn và vạch chéo, là dạng biển cấm.",
+      "topic": "An toàn thực hành",
+      "source": "Phần I · Câu 2",
+      "image": "assets/image1.png"
+    },
+    {
+      "id": "MC03",
+      "type": "mc",
+      "question": "Độ chia nhỏ nhất (ĐCNN) của một thước đo được định nghĩa là",
+      "options": {
+        "A": "giá trị cuối cùng trên thước.",
+        "B": "giá trị nhỏ nhất trên thước.",
+        "C": "chiều dài giữa 2 vạch liên tiếp trên thước.",
+        "D": "nửa chiều dài của thước."
+      },
+      "answer": "C",
+      "explanation": "ĐCNN là giá trị ứng với khoảng cách giữa hai vạch chia liên tiếp trên dụng cụ đo.",
+      "topic": "Đo lường & tính chất của chất",
+      "source": "Phần I · Câu 3",
+      "image": null
+    },
+    {
+      "id": "MC04",
+      "type": "mc",
+      "question": "Trên một cái thước học sinh có số lớn nhất là 30 cm. Từ vạch số 0 đến vạch số 1 được chia làm 5 khoảng bằng nhau. Vậy GHĐ và ĐCNN của thước là",
+      "options": {
+        "A": "GHĐ 30 cm; ĐCNN 0 cm.",
+        "B": "GHĐ 30 cm; ĐCNN 2 mm.",
+        "C": "GHĐ 30 cm; ĐCNN 1 mm.",
+        "D": "GHĐ 30 cm; ĐCNN 5 mm."
+      },
+      "answer": "B",
+      "explanation": "GHĐ là 30 cm. Mỗi 1 cm chia 5 khoảng nên ĐCNN = 1/5 cm = 0,2 cm = 2 mm.",
+      "topic": "Đo lường & tính chất của chất",
+      "source": "Phần I · Câu 4",
+      "image": null
+    },
+    {
+      "id": "MC05",
+      "type": "mc",
+      "question": "Khả năng phóng to ảnh của vật bằng kính hiển vi là",
+      "options": {
+        "A": "3–20 lần.",
+        "B": "10–20 lần.",
+        "C": "20–100 lần.",
+        "D": "40–3000 lần."
+      },
+      "answer": "D",
+      "explanation": "Kính hiển vi có độ phóng đại lớn, trong phạm vi nêu trong tài liệu là 40–3000 lần.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần I · Câu 5",
+      "image": null
+    },
+    {
+      "id": "MC06",
+      "type": "mc",
+      "question": "Quy định an toàn nào sau đây là bắt buộc khi làm việc trong phòng thực hành có sử dụng hóa chất dễ bắn?",
+      "options": {
+        "A": "Đùa nghịch thoải mái cùng bạn học.",
+        "B": "Tự ý thử nếm mùi vị của các dung dịch hóa chất.",
+        "C": "Đeo kính bảo hộ, khẩu trang và găng tay.",
+        "D": "Không cần thu dọn chai lọ hóa chất sau khi làm xong."
+      },
+      "answer": "C",
+      "explanation": "Trang bị kính bảo hộ, khẩu trang và găng tay giúp hạn chế tiếp xúc trực tiếp với hóa chất.",
+      "topic": "An toàn thực hành",
+      "source": "Phần I · Câu 6",
+      "image": null
+    },
+    {
+      "id": "MC07",
+      "type": "mc",
+      "question": "Chọn câu đúng: 1 kilogram là",
+      "options": {
+        "A": "khối lượng của một lít nước.",
+        "B": "khối lượng của một lượng vàng.",
+        "C": "khối lượng của một vật bất kì.",
+        "D": "khối lượng của một quả cân mẫu đặt tại Viện Đo lường quốc tế ở Pháp."
+      },
+      "answer": "D",
+      "explanation": "Theo cách trình bày trong tài liệu, kilogram được gắn với quả cân mẫu chuẩn quốc tế.",
+      "topic": "Đo lường & tính chất của chất",
+      "source": "Phần I · Câu 7",
+      "image": null,
+      "note": "Cần kiểm tra với giáo viên: lời giải của tài liệu ghi “Theo cách trình bày trong tài liệu”, sử dụng mô tả kilogram gắn với quả cân mẫu. Website giữ nguyên đáp án D."
+    },
+    {
+      "id": "MC08",
+      "type": "mc",
+      "question": "Vật nào sau đây gọi là vật không sống?",
+      "options": {
+        "A": "Con ong.",
+        "B": "Vi khuẩn.",
+        "C": "Than củi.",
+        "D": "Cây cam."
+      },
+      "answer": "C",
+      "explanation": "Than củi không thực hiện các đặc trưng sống như trao đổi chất, sinh trưởng và sinh sản.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần I · Câu 8",
+      "image": null
+    },
+    {
+      "id": "MC09",
+      "type": "mc",
+      "question": "Có thể sử dụng kính lúp để quan sát vật nào sau đây?",
+      "options": {
+        "A": "Các bộ phận trên xác một con muỗi.",
+        "B": "Toàn bộ cơ thể một con voi.",
+        "C": "Tế bào thịt quả cà chua.",
+        "D": "Mặt trăng."
+      },
+      "answer": "A",
+      "explanation": "Kính lúp phù hợp quan sát các chi tiết nhỏ có thể nhìn thấy ở mức phóng đại thấp, như các bộ phận của muỗi.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần I · Câu 9",
+      "image": null
+    },
+    {
+      "id": "MC10",
+      "type": "mc",
+      "question": "Hoạt động nào trong các hoạt động sau đây là hoạt động nghiên cứu khoa học?",
+      "options": {
+        "A": "Chơi bóng rổ.",
+        "B": "Cấy lúa.",
+        "C": "Đánh đàn.",
+        "D": "Tìm hiểu đặc điểm sinh học của các loài tôm."
+      },
+      "answer": "D",
+      "explanation": "Tìm hiểu có hệ thống đặc điểm sinh học của loài là hoạt động nghiên cứu khoa học.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần I · Câu 10",
+      "image": null
+    },
+    {
+      "id": "MC11",
+      "type": "mc",
+      "question": "Muốn quan sát hình dạng và cấu trúc chi tiết của các tế bào thực vật, ta cần sử dụng dụng cụ nào?",
+      "options": {
+        "A": "Kính có độ (cận, lão...).",
+        "B": "Kính lúp.",
+        "C": "Kính hiển vi.",
+        "D": "Kính hiển vi hoặc kính lúp."
+      },
+      "answer": "C",
+      "explanation": "Tế bào có kích thước rất nhỏ nên cần kính hiển vi để quan sát hình dạng và cấu trúc chi tiết.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần I · Câu 11",
+      "image": null
+    },
+    {
+      "id": "MC12",
+      "type": "mc",
+      "question": "Một xe chở mì khi lên trạm cân, số chỉ là 4,3 tấn và sau khi đổ mì khỏi xe và cân lại thì xe có khối lượng là 680 kg. Hỏi khối lượng của mì là bao nhiêu kilogram?",
+      "options": {
+        "A": "4980.",
+        "B": "3620.",
+        "C": "4300.",
+        "D": "5800."
+      },
+      "answer": "B",
+      "explanation": "4,3 tấn = 4300 kg; khối lượng mì = 4300 − 680 = 3620 kg.",
+      "topic": "Đo lường & tính chất của chất",
+      "source": "Phần I · Câu 12",
+      "image": null
+    },
+    {
+      "id": "MC13",
+      "type": "mc",
+      "question": "Đơn vị đo khối lượng trong hệ thống đo lường chính thức ở nước ta là",
+      "options": {
+        "A": "tấn.",
+        "B": "miligam.",
+        "C": "kilôgam.",
+        "D": "gam."
+      },
+      "answer": "C",
+      "explanation": "Đơn vị cơ bản dùng chính thức cho khối lượng là kilôgam (kg).",
+      "topic": "Đo lường & tính chất của chất",
+      "source": "Phần I · Câu 13",
+      "image": null
+    },
+    {
+      "id": "MC14",
+      "type": "mc",
+      "question": "Dùng dụng cụ nào để đo khối lượng?",
+      "options": {
+        "A": "Thước.",
+        "B": "Đồng hồ.",
+        "C": "Cân.",
+        "D": "Nhiệt kế."
+      },
+      "answer": "C",
+      "explanation": "Cân là dụng cụ dùng để đo khối lượng.",
+      "topic": "Đo lường & tính chất của chất",
+      "source": "Phần I · Câu 14",
+      "image": null
+    },
+    {
+      "id": "MC15",
+      "type": "mc",
+      "question": "Để đo thời gian chạy quãng đường ngắn 100 m của học sinh trong giờ Thể dục, loại đồng hồ nào sau đây là thích hợp nhất?",
+      "options": {
+        "A": "Đồng hồ treo tường.",
+        "B": "Đồng hồ cát.",
+        "C": "Đồng hồ bấm giây.",
+        "D": "Đồng hồ đeo tay."
+      },
+      "answer": "C",
+      "explanation": "Đồng hồ bấm giây phù hợp đo các khoảng thời gian ngắn với độ chính xác cao.",
+      "topic": "Đo lường & tính chất của chất",
+      "source": "Phần I · Câu 15",
+      "image": null
+    },
+    {
+      "id": "MC16",
+      "type": "mc",
+      "question": "Khi đo thời gian đi bộ của bạn A trên một quãng đường dài 50 m, em sẽ đo khoảng thời gian",
+      "options": {
+        "A": "từ lúc bạn A xuất phát tới khi A về đến đích.",
+        "B": "từ lúc bạn A đi được 1 bước tới khi A về tới đích.",
+        "C": "bạn A đi được bộ được 25 m rồi nhân đôi.",
+        "D": "bạn A đi bộ 100 m rồi chia đôi."
+      },
+      "answer": "A",
+      "explanation": "Thời gian cần đo phải bắt đầu khi xuất phát và kết thúc khi tới đích trên đúng quãng đường 50 m.",
+      "topic": "Đo lường & tính chất của chất",
+      "source": "Phần I · Câu 16",
+      "image": null
+    },
+    {
+      "id": "MC17",
+      "type": "mc",
+      "question": "Nhóm nào sau đây hoàn toàn gồm các vật thể tự nhiên?",
+      "options": {
+        "A": "biển, hồ, sông, suối.",
+        "B": "biển, mương, kênh, bể nước.",
+        "C": "đập nước, máng, đại dương, rạch.",
+        "D": "hồ, thác, giếng, bể bơi."
+      },
+      "answer": "A",
+      "explanation": "Biển, hồ, sông, suối đều có thể tồn tại tự nhiên; các nhóm khác chứa vật thể nhân tạo như mương, kênh, đập, bể bơi.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần I · Câu 17",
+      "image": null
+    },
+    {
+      "id": "MC18",
+      "type": "mc",
+      "question": "Vật thể nhân tạo là",
+      "options": {
+        "A": "cây lúa.",
+        "B": "máy bay.",
+        "C": "mặt trời.",
+        "D": "con sóc."
+      },
+      "answer": "B",
+      "explanation": "Máy bay do con người chế tạo nên là vật thể nhân tạo.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần I · Câu 18",
+      "image": null
+    },
+    {
+      "id": "MC19",
+      "type": "mc",
+      "question": "Vào buổi sáng, ta thấy những hạt sương trên lá cây từ từ biến mất. Hiện tượng này thể hiện quá trình chuyển thể nào?",
+      "options": {
+        "A": "Từ rắn sang lỏng.",
+        "B": "Từ lỏng sang hơi.",
+        "C": "Từ hơi sang lỏng.",
+        "D": "Từ lỏng sang rắn."
+      },
+      "answer": "B",
+      "explanation": "Sương ở thể lỏng chuyển dần thành hơi nước, đó là sự hóa hơi.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần I · Câu 19",
+      "image": null
+    },
+    {
+      "id": "MC20",
+      "type": "mc",
+      "question": "Biến đổi nào sau đây là biến đổi hóa học?",
+      "options": {
+        "A": "Bọt sủi lên từ cốc nước ngọt có gas.",
+        "B": "Nước đá tan chảy khi để ở nhiệt độ phòng.",
+        "C": "Muối tan trong nước.",
+        "D": "Đinh sắt để lâu trong không khí bị gỉ."
+      },
+      "answer": "D",
+      "explanation": "Sắt bị gỉ tạo thành chất mới nên là biến đổi hóa học.",
+      "topic": "Đo lường & tính chất của chất",
+      "source": "Phần I · Câu 20",
+      "image": null
+    },
+    {
+      "id": "MC21",
+      "type": "mc",
+      "question": "Tính chất vật lí nào sau đây là đúng đối với oxygen?",
+      "options": {
+        "A": "Oxygen là chất khí, tan ít trong nước và nặng hơn không khí.",
+        "B": "Oxygen là chất khí, tan vô hạn trong nước và nặng hơn không khí.",
+        "C": "Oxygen là chất khí, tan ít trong nước và nhẹ hơn không khí.",
+        "D": "Oxygen là chất khí, tan vô hạn trong nước và nhẹ hơn không khí."
+      },
+      "answer": "A",
+      "explanation": "Oxygen là khí không màu, ít tan trong nước và có khối lượng riêng lớn hơn không khí.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần I · Câu 21",
+      "image": null
+    },
+    {
+      "id": "MC22",
+      "type": "mc",
+      "question": "Vào những ngày trời rất lạnh, nhiều khu vực ở nước ta như Sa Pa (Lào Cai), Mẫu Sơn (Lạng Sơn)... có hiện tượng nước đóng băng, tuyết rơi. Đây là sự chuyển thể nào?",
+      "options": {
+        "A": "Sự nóng chảy.",
+        "B": "Sự đông đặc.",
+        "C": "Sự hóa hơi.",
+        "D": "Sự ngưng tụ."
+      },
+      "answer": "B",
+      "explanation": "Nước chuyển từ thể lỏng sang thể rắn là sự đông đặc.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần I · Câu 22",
+      "image": null,
+      "note": "Cần kiểm tra cách diễn đạt: câu gộp “nước đóng băng” và “tuyết rơi”, trong khi giải thích chỉ nói nước lỏng chuyển sang rắn. Giữ nguyên đáp án B theo tài liệu."
+    },
+    {
+      "id": "MC23",
+      "type": "mc",
+      "question": "Chất nào sau đây chiếm tỉ lệ phần trăm thể tích lớn nhất trong thành phần không khí chuẩn?",
+      "options": {
+        "A": "Oxygen.",
+        "B": "Hydrogen.",
+        "C": "Nitrogen.",
+        "D": "Carbon dioxide."
+      },
+      "answer": "C",
+      "explanation": "Nitrogen chiếm khoảng 78% thể tích không khí, lớn nhất trong các thành phần nêu.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần I · Câu 23",
+      "image": null
+    },
+    {
+      "id": "MC24",
+      "type": "mc",
+      "question": "Khi để cục nước đá ở nhiệt độ phòng, đá tan dần, đây là sự chuyển thể nào?",
+      "options": {
+        "A": "Sự nóng chảy.",
+        "B": "Sự đông đặc.",
+        "C": "Sự hóa hơi.",
+        "D": "Sự ngưng tụ."
+      },
+      "answer": "A",
+      "explanation": "Nước đá từ thể rắn chuyển sang thể lỏng là sự nóng chảy.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần I · Câu 24",
+      "image": null
+    },
+    {
+      "id": "MC25",
+      "type": "mc",
+      "question": "Nguyên nhân nào sau đây không gây ô nhiễm không khí?",
+      "options": {
+        "A": "Cháy rừng.",
+        "B": "Khí thải do sản xuất công nghiệp, do hoạt động của phương tiện giao thông.",
+        "C": "Hoạt động của núi lửa.",
+        "D": "Khí sinh ra từ quá trình quang hợp của cây xanh."
+      },
+      "answer": "D",
+      "explanation": "Quang hợp của cây xanh tạo oxygen; đây không phải nguồn gây ô nhiễm không khí trong các lựa chọn.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần I · Câu 25",
+      "image": null
+    },
+    {
+      "id": "MC26",
+      "type": "mc",
+      "question": "Tại sao ở thành cốc đựng nước đá lại xuất hiện những giọt nước nhỏ?",
+      "options": {
+        "A": "Cốc bị thủng.",
+        "B": "Trong không khí có khí oxygen.",
+        "C": "Trong không khí có hơi nước.",
+        "D": "Trong không khí có khí nitrogen."
+      },
+      "answer": "C",
+      "explanation": "Hơi nước trong không khí gặp thành cốc lạnh, ngưng tụ thành các giọt nước.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần I · Câu 26",
+      "image": null
+    },
+    {
+      "id": "MC27",
+      "type": "mc",
+      "question": "Biện pháp duy trì nguồn cung cấp oxygen trong không khí?",
+      "options": {
+        "A": "Trồng cây gây rừng, chăm sóc cây xanh.",
+        "B": "Thải các chất khí thải ra môi trường không qua xử lí.",
+        "C": "Đốt rừng làm rẫy.",
+        "D": "Phá rừng để làm đồn điền, trang trại."
+      },
+      "answer": "A",
+      "explanation": "Cây xanh quang hợp góp phần bổ sung oxygen cho không khí.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần I · Câu 27",
+      "image": null
+    },
+    {
+      "id": "MC28",
+      "type": "mc",
+      "question": "Quá trình nào sau đây cần oxygen?",
+      "options": {
+        "A": "Hô hấp.",
+        "B": "Quang hợp.",
+        "C": "Hòa tan.",
+        "D": "Nóng chảy."
+      },
+      "answer": "A",
+      "explanation": "Hô hấp sử dụng oxygen để giải phóng năng lượng từ chất dinh dưỡng.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần I · Câu 28",
+      "image": null
+    },
+    {
+      "id": "MC29",
+      "type": "mc",
+      "question": "Khi một can xăng bất cẩn bốc cháy, chọn giải pháp chữa cháy nào dưới đây phù hợp nhất?",
+      "options": {
+        "A": "Phun nước.",
+        "B": "Dùng cát đổ trùm lên.",
+        "C": "Dùng cồn phun vào đám cháy.",
+        "D": "Dùng chiếc chăn khô đắp lên."
+      },
+      "answer": "B",
+      "explanation": "Cát phủ lên đám cháy giúp cách li nhiên liệu với oxygen; dùng nước với xăng có thể làm xăng loang rộng.",
+      "topic": "An toàn thực hành",
+      "source": "Phần I · Câu 29",
+      "image": null
+    },
+    {
+      "id": "MC30",
+      "type": "mc",
+      "question": "Nhiệt độ lạnh nhất trên Trái Đất từng ghi lại được là −89 °C. Khi đó oxygen ở thể nào?",
+      "options": {
+        "A": "Rắn.",
+        "B": "Lỏng.",
+        "C": "Khí.",
+        "D": "Đông đặc."
+      },
+      "answer": "C",
+      "explanation": "Ở −89 °C, oxygen vẫn ở thể khí vì nhiệt độ này còn cao hơn nhiều so với nhiệt độ hóa lỏng của oxygen.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần I · Câu 30",
+      "image": null
+    },
+    {
+      "id": "TF01a",
+      "type": "tf",
+      "question": "Khi nghiên cứu về vai trò của Khoa học tự nhiên và phương pháp sử dụng các thiết bị kính lúp, kính hiển vi trong phòng thực hành:\na) Khoa học tự nhiên có vai trò chủ yếu là nghiên cứu các sự kiện lịch sử của loài người trong quá khứ.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "F",
+      "explanation": "Lịch sử loài người thuộc lĩnh vực Lịch sử, không phải vai trò chủ yếu của Khoa học tự nhiên.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần II · Câu 1 · Ý a",
+      "image": null
+    },
+    {
+      "id": "TF01b",
+      "type": "tf",
+      "question": "Khi nghiên cứu về vai trò của Khoa học tự nhiên và phương pháp sử dụng các thiết bị kính lúp, kính hiển vi trong phòng thực hành:\nb) Việc nghiên cứu chế tạo ra các loại xe ô tô điện, xe máy điện thân thiện với môi trường thể hiện rõ vai trò ứng dụng công nghệ của KHTN vào cuộc sống, sản xuất.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "T",
+      "explanation": "Đây là ví dụ ứng dụng tri thức khoa học tự nhiên và công nghệ vào sản xuất, đời sống.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần II · Câu 1 · Ý b",
+      "image": null
+    },
+    {
+      "id": "TF01c",
+      "type": "tf",
+      "question": "Khi nghiên cứu về vai trò của Khoa học tự nhiên và phương pháp sử dụng các thiết bị kính lúp, kính hiển vi trong phòng thực hành:\nc) Để quan sát rõ hình dạng các bào quan trong quả cà chua, ta chỉ cần dùng một chiếc kính lúp cầm tay thông thường có độ phóng đại 10 lần.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "F",
+      "explanation": "Các cấu trúc tế bào rất nhỏ, cần kính hiển vi thay vì chỉ dùng kính lúp 10 lần.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần II · Câu 1 · Ý c",
+      "image": null
+    },
+    {
+      "id": "TF01d",
+      "type": "tf",
+      "question": "Khi nghiên cứu về vai trò của Khoa học tự nhiên và phương pháp sử dụng các thiết bị kính lúp, kính hiển vi trong phòng thực hành:\nd) Sau khi sử dụng kính hiển vi quang học, ta cần lau sạch bụi bẩn trên thị kính và vật kính thường xuyên bằng khăn lau chuyên dụng mềm để bảo quản thấu kính không bị trầy xước.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "T",
+      "explanation": "Dùng khăn chuyên dụng mềm giúp vệ sinh và bảo vệ bề mặt thấu kính.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần II · Câu 1 · Ý d",
+      "image": null
+    },
+    {
+      "id": "TF02a",
+      "type": "tf",
+      "question": "An toàn trong phòng thực hành\na) Khi làm thí nghiệm phải tuân thủ nội quy phòng thực hành.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "T",
+      "explanation": "Tuân thủ nội quy là yêu cầu cơ bản để bảo đảm an toàn.",
+      "topic": "An toàn thực hành",
+      "source": "Phần II · Câu 2 · Ý a",
+      "image": null
+    },
+    {
+      "id": "TF02b",
+      "type": "tf",
+      "question": "An toàn trong phòng thực hành\nb) Có thể tự ý thử nếm dung dịch trong phòng thí nghiệm.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "F",
+      "explanation": "Không được tự ý nếm hóa chất vì có nguy cơ gây độc hoặc tổn thương.",
+      "topic": "An toàn thực hành",
+      "source": "Phần II · Câu 2 · Ý b",
+      "image": null
+    },
+    {
+      "id": "TF02c",
+      "type": "tf",
+      "question": "An toàn trong phòng thực hành\nc) Cần đeo kính bảo hộ khi làm thí nghiệm có chất dễ bắn.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "T",
+      "explanation": "Kính bảo hộ giúp bảo vệ mắt khỏi hóa chất hoặc vật liệu bắn vào.",
+      "topic": "An toàn thực hành",
+      "source": "Phần II · Câu 2 · Ý c",
+      "image": null
+    },
+    {
+      "id": "TF02d",
+      "type": "tf",
+      "question": "An toàn trong phòng thực hành\nd) Có thể đùa nghịch thoải mái trong khi làm thí nghiệm.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "F",
+      "explanation": "Đùa nghịch làm tăng nguy cơ tai nạn trong phòng thực hành.",
+      "topic": "An toàn thực hành",
+      "source": "Phần II · Câu 2 · Ý d",
+      "image": null
+    },
+    {
+      "id": "TF03a",
+      "type": "tf",
+      "question": "Sử dụng kính lúp\na) Kính lúp có thể phóng to ảnh vật lên vài trăm lần.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "F",
+      "explanation": "Kính lúp thông thường chỉ phóng đại ở mức thấp, không tới vài trăm lần.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần II · Câu 3 · Ý a",
+      "image": null
+    },
+    {
+      "id": "TF03b",
+      "type": "tf",
+      "question": "Sử dụng kính lúp\nb) Khi dùng kính lúp, mắt cần đặt sát vào vật quan sát.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "F",
+      "explanation": "Cần đặt kính lúp gần vật và điều chỉnh khoảng cách giữa mắt, kính và vật để ảnh rõ.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần II · Câu 3 · Ý b",
+      "image": null
+    },
+    {
+      "id": "TF03c",
+      "type": "tf",
+      "question": "Sử dụng kính lúp\nc) Kính lúp thường được dùng để quan sát tế bào thực vật, động vật.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "F",
+      "explanation": "Quan sát tế bào thường cần kính hiển vi.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần II · Câu 3 · Ý c",
+      "image": null
+    },
+    {
+      "id": "TF03d",
+      "type": "tf",
+      "question": "Sử dụng kính lúp\nd) Lau chùi, vệ sinh kính lúp thường xuyên bằng khăn mềm.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "T",
+      "explanation": "Khăn mềm giúp làm sạch mà hạn chế làm xước kính.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần II · Câu 3 · Ý d",
+      "image": null
+    },
+    {
+      "id": "TF04a",
+      "type": "tf",
+      "question": "Xem xét các quy trình đo lường đại lượng vật lí và sự biến đổi của các chất quanh ta:\na) Khi đo chiều dài của một chiếc bút chì bằng thước thẳng, ta phải đặt thước dọc theo chiều dài bút và vạch số 0 của thước phải trùng với một đầu của bút chì.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "T",
+      "explanation": "Đây là cách đặt thước đúng để xác định chiều dài trực tiếp.",
+      "topic": "Đo lường & tính chất của chất",
+      "source": "Phần II · Câu 4 · Ý a",
+      "image": null
+    },
+    {
+      "id": "TF04b",
+      "type": "tf",
+      "question": "Xem xét các quy trình đo lường đại lượng vật lí và sự biến đổi của các chất quanh ta:\nb) Việc đặt mắt hướng xiên (lệch góc) so với cạnh thước ở đầu kia của bút chì khi đọc kết quả đo vẫn đảm bảo kết quả đo có độ chính xác tuyệt đối.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "F",
+      "explanation": "Mắt nhìn xiên gây sai số thị sai; cần nhìn vuông góc với vạch chia.",
+      "topic": "Đo lường & tính chất của chất",
+      "source": "Phần II · Câu 4 · Ý b",
+      "image": null
+    },
+    {
+      "id": "TF04c",
+      "type": "tf",
+      "question": "Xem xét các quy trình đo lường đại lượng vật lí và sự biến đổi của các chất quanh ta:\nc) Quá trình đinh sắt để lâu trong không khí bị gỉ tạo thành lớp chất mới màu nâu, giòn, xốp là biểu hiện tính chất hóa học của chất.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "T",
+      "explanation": "Có chất mới tạo thành nên đây là biến đổi hóa học.",
+      "topic": "Đo lường & tính chất của chất",
+      "source": "Phần II · Câu 4 · Ý c",
+      "image": null
+    },
+    {
+      "id": "TF04d",
+      "type": "tf",
+      "question": "Xem xét các quy trình đo lường đại lượng vật lí và sự biến đổi của các chất quanh ta:\nd) Khi hòa tan đường ăn vào một cốc nước nóng, đường sẽ tan nhanh hơn so với cốc nước lạnh vì nhiệt độ cao làm cho các hạt cấu tạo nên chất chuyển động chậm lại.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "F",
+      "explanation": "Nhiệt độ cao làm các hạt chuyển động nhanh hơn, giúp quá trình hòa tan diễn ra nhanh hơn.",
+      "topic": "Đo lường & tính chất của chất",
+      "source": "Phần II · Câu 4 · Ý d",
+      "image": null
+    },
+    {
+      "id": "TF05a",
+      "type": "tf",
+      "question": "Đánh giá về sự chuyển thể của chất, vai trò của khí oxygen và bầu không khí:\na) Hiện tượng tuyết rơi và nước đóng băng vào mùa đông tại Sa Pa là kết quả của quá trình chuyển thể từ thể khí trực tiếp sang thể rắn (quá trình ngưng tụ).",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "F",
+      "explanation": "Nước đóng băng là chuyển từ lỏng sang rắn (đông đặc); mô tả 'khí trực tiếp sang rắn' cũng không phải ngưng tụ.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần II · Câu 5 · Ý a",
+      "image": null
+    },
+    {
+      "id": "TF05b",
+      "type": "tf",
+      "question": "Đánh giá về sự chuyển thể của chất, vai trò của khí oxygen và bầu không khí:\nb) Các hạt cấu tạo nên chất ở thể khí nằm rất xa nhau, chuyển động tự do hỗn loạn về mọi hướng và luôn chiếm đầy thể tích của vật chứa.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "T",
+      "explanation": "Đó là đặc điểm mô hình hạt của chất khí.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần II · Câu 5 · Ý b",
+      "image": null
+    },
+    {
+      "id": "TF05c",
+      "type": "tf",
+      "question": "Đánh giá về sự chuyển thể của chất, vai trò của khí oxygen và bầu không khí:\nc) Sự ô nhiễm không khí chủ yếu do khói bụi, rác thải và khí thải từ các phương tiện giao thông, nhà máy gây ra hiện tượng hiệu ứng nhà kính, mưa acid và các bệnh hô hấp ở người.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "T",
+      "explanation": "Các nguồn thải này làm suy giảm chất lượng không khí và gây nhiều tác động môi trường, sức khỏe.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần II · Câu 5 · Ý c",
+      "image": null
+    },
+    {
+      "id": "TF05d",
+      "type": "tf",
+      "question": "Đánh giá về sự chuyển thể của chất, vai trò của khí oxygen và bầu không khí:\nd) Trồng cây xanh và tích cực bảo vệ rừng là một trong những giải pháp sinh học thực tiễn giúp duy trì và ổn định nguồn cung cấp oxygen tự nhiên trong không khí.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "T",
+      "explanation": "Cây xanh quang hợp, góp phần bổ sung oxygen cho khí quyển.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần II · Câu 5 · Ý d",
+      "image": null
+    },
+    {
+      "id": "TF06a",
+      "type": "tf",
+      "question": "Oxygen – Không khí\na) Oxygen chiếm khoảng 21% thể tích không khí.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "T",
+      "explanation": "Oxygen chiếm xấp xỉ 21% thể tích không khí.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần II · Câu 6 · Ý a",
+      "image": null
+    },
+    {
+      "id": "TF06b",
+      "type": "tf",
+      "question": "Oxygen – Không khí\nb) Không khí gồm nhiều thành phần, trong đó bụi bẩn chiếm nhiều nhất.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "F",
+      "explanation": "Thành phần chiếm nhiều nhất trong không khí là nitrogen.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần II · Câu 6 · Ý b",
+      "image": null
+    },
+    {
+      "id": "TF06c",
+      "type": "tf",
+      "question": "Oxygen – Không khí\nc) Oxygen không liên quan đến hô hấp và sự cháy.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "F",
+      "explanation": "Oxygen cần cho hô hấp và duy trì sự cháy.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần II · Câu 6 · Ý c",
+      "image": null
+    },
+    {
+      "id": "TF06d",
+      "type": "tf",
+      "question": "Oxygen – Không khí\nd) Không khí là một chất tinh khiết, chỉ gồm oxygen.",
+      "options": {
+        "T": "Đúng",
+        "F": "Sai"
+      },
+      "answer": "F",
+      "explanation": "Không khí là hỗn hợp nhiều chất khí, chủ yếu nitrogen và oxygen.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần II · Câu 6 · Ý d",
+      "image": null
+    },
+    {
+      "id": "SHORT01",
+      "type": "short",
+      "question": "Trong các lĩnh vực: Vật lí, Hóa học, Thể dục thể thao, Sinh học, Khoa học Trái Đất, Lịch sử, có mấy lĩnh vực thuộc khoa học tự nhiên?",
+      "options": {},
+      "answer": "4",
+      "explanation": "Các lĩnh vực thuộc KHTN là Vật lí, Hóa học, Sinh học và Khoa học Trái Đất.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần III · Câu 1",
+      "image": null
+    },
+    {
+      "id": "SHORT02",
+      "type": "short",
+      "question": "Trong phòng thí nghiệm thường có tối thiểu bao nhiêu nhóm biển báo an toàn chính?",
+      "options": {},
+      "answer": "4",
+      "explanation": "Các nhóm biển báo an toàn thường gồm: cấm, cảnh báo, bắt buộc và chỉ dẫn/thoát hiểm.",
+      "topic": "An toàn thực hành",
+      "source": "Phần III · Câu 2",
+      "image": null
+    },
+    {
+      "id": "SHORT03",
+      "type": "short",
+      "question": "Kính hiển vi quang học có thể phóng đại vật lên tối đa khoảng bao nhiêu lần?",
+      "options": {},
+      "answer": "3000 lần",
+      "explanation": "Theo phạm vi nêu trong chính tài liệu, kính hiển vi có khả năng phóng đại đến khoảng 3000 lần.",
+      "topic": "Khoa học tự nhiên & kính",
+      "source": "Phần III · Câu 3",
+      "image": null
+    },
+    {
+      "id": "SHORT04",
+      "type": "short",
+      "question": "Một quãng đường dài 1,5 km tương ứng với bao nhiêu mét (m)?",
+      "options": {},
+      "answer": "1500 m",
+      "explanation": "1 km = 1000 m nên 1,5 km = 1,5 × 1000 = 1500 m.",
+      "topic": "Đo lường & tính chất của chất",
+      "source": "Phần III · Câu 4",
+      "image": null
+    },
+    {
+      "id": "SHORT05",
+      "type": "short",
+      "question": "Trên một thước đo học sinh, khoảng cách giữa vạch chia số 0 và vạch chia số 1 cm được chia đều làm 10 khoảng bằng nhau. ĐCNN của thước tương ứng bao nhiêu milimét (mm)?",
+      "options": {},
+      "answer": "1 mm",
+      "explanation": "1 cm = 10 mm; chia thành 10 khoảng bằng nhau nên mỗi khoảng là 1 mm.",
+      "topic": "Đo lường & tính chất của chất",
+      "source": "Phần III · Câu 5",
+      "image": null
+    },
+    {
+      "id": "SHORT06",
+      "type": "short",
+      "question": "Trong không khí chuẩn, nitrogen chiếm khoảng bao nhiêu phần trăm thể tích?",
+      "options": {},
+      "answer": "78%",
+      "explanation": "Nitrogen chiếm khoảng 78% thể tích không khí chuẩn.",
+      "topic": "Chất, oxygen & không khí",
+      "source": "Phần III · Câu 6",
+      "image": null
+    }
+  ],
+  "STUDY_CONTENT": [
+    {
+      "id": "FC-MC01",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Kính lúp cầm tay thông thường có thể phóng to ảnh của vật lên khoảng bao nhiêu lần?",
+      "back": "20 lần.",
+      "explanation": "Kính lúp cầm tay thông thường có độ phóng đại khoảng vài lần đến khoảng 20 lần.",
+      "source": "Phần I · Câu 1",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC02",
+      "topic": "An toàn thực hành",
+      "front": "Các biển báo dưới đây có ý nghĩa gì?",
+      "back": "Cấm thực hiện.",
+      "explanation": "Các hình đều có vòng tròn và vạch chéo, là dạng biển cấm.",
+      "source": "Phần I · Câu 2",
+      "image": "assets/image1.png",
+      "note": null
+    },
+    {
+      "id": "FC-MC03",
+      "topic": "Đo lường & tính chất của chất",
+      "front": "Độ chia nhỏ nhất (ĐCNN) của một thước đo được định nghĩa là",
+      "back": "chiều dài giữa 2 vạch liên tiếp trên thước.",
+      "explanation": "ĐCNN là giá trị ứng với khoảng cách giữa hai vạch chia liên tiếp trên dụng cụ đo.",
+      "source": "Phần I · Câu 3",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC04",
+      "topic": "Đo lường & tính chất của chất",
+      "front": "Trên một cái thước học sinh có số lớn nhất là 30 cm. Từ vạch số 0 đến vạch số 1 được chia làm 5 khoảng bằng nhau. Vậy GHĐ và ĐCNN của thước là",
+      "back": "GHĐ 30 cm; ĐCNN 2 mm.",
+      "explanation": "GHĐ là 30 cm. Mỗi 1 cm chia 5 khoảng nên ĐCNN = 1/5 cm = 0,2 cm = 2 mm.",
+      "source": "Phần I · Câu 4",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC05",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Khả năng phóng to ảnh của vật bằng kính hiển vi là",
+      "back": "40–3000 lần.",
+      "explanation": "Kính hiển vi có độ phóng đại lớn, trong phạm vi nêu trong tài liệu là 40–3000 lần.",
+      "source": "Phần I · Câu 5",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC06",
+      "topic": "An toàn thực hành",
+      "front": "Quy định an toàn nào sau đây là bắt buộc khi làm việc trong phòng thực hành có sử dụng hóa chất dễ bắn?",
+      "back": "Đeo kính bảo hộ, khẩu trang và găng tay.",
+      "explanation": "Trang bị kính bảo hộ, khẩu trang và găng tay giúp hạn chế tiếp xúc trực tiếp với hóa chất.",
+      "source": "Phần I · Câu 6",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC07",
+      "topic": "Đo lường & tính chất của chất",
+      "front": "Chọn câu đúng: 1 kilogram là",
+      "back": "khối lượng của một quả cân mẫu đặt tại Viện Đo lường quốc tế ở Pháp.",
+      "explanation": "Theo cách trình bày trong tài liệu, kilogram được gắn với quả cân mẫu chuẩn quốc tế.",
+      "source": "Phần I · Câu 7",
+      "image": null,
+      "note": "Cần kiểm tra với giáo viên: lời giải của tài liệu ghi “Theo cách trình bày trong tài liệu”, sử dụng mô tả kilogram gắn với quả cân mẫu. Website giữ nguyên đáp án D."
+    },
+    {
+      "id": "FC-MC08",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Vật nào sau đây gọi là vật không sống?",
+      "back": "Than củi.",
+      "explanation": "Than củi không thực hiện các đặc trưng sống như trao đổi chất, sinh trưởng và sinh sản.",
+      "source": "Phần I · Câu 8",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC09",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Có thể sử dụng kính lúp để quan sát vật nào sau đây?",
+      "back": "Các bộ phận trên xác một con muỗi.",
+      "explanation": "Kính lúp phù hợp quan sát các chi tiết nhỏ có thể nhìn thấy ở mức phóng đại thấp, như các bộ phận của muỗi.",
+      "source": "Phần I · Câu 9",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC10",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Hoạt động nào trong các hoạt động sau đây là hoạt động nghiên cứu khoa học?",
+      "back": "Tìm hiểu đặc điểm sinh học của các loài tôm.",
+      "explanation": "Tìm hiểu có hệ thống đặc điểm sinh học của loài là hoạt động nghiên cứu khoa học.",
+      "source": "Phần I · Câu 10",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC11",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Muốn quan sát hình dạng và cấu trúc chi tiết của các tế bào thực vật, ta cần sử dụng dụng cụ nào?",
+      "back": "Kính hiển vi.",
+      "explanation": "Tế bào có kích thước rất nhỏ nên cần kính hiển vi để quan sát hình dạng và cấu trúc chi tiết.",
+      "source": "Phần I · Câu 11",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC12",
+      "topic": "Đo lường & tính chất của chất",
+      "front": "Một xe chở mì khi lên trạm cân, số chỉ là 4,3 tấn và sau khi đổ mì khỏi xe và cân lại thì xe có khối lượng là 680 kg. Hỏi khối lượng của mì là bao nhiêu kilogram?",
+      "back": "3620.",
+      "explanation": "4,3 tấn = 4300 kg; khối lượng mì = 4300 − 680 = 3620 kg.",
+      "source": "Phần I · Câu 12",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC13",
+      "topic": "Đo lường & tính chất của chất",
+      "front": "Đơn vị đo khối lượng trong hệ thống đo lường chính thức ở nước ta là",
+      "back": "kilôgam.",
+      "explanation": "Đơn vị cơ bản dùng chính thức cho khối lượng là kilôgam (kg).",
+      "source": "Phần I · Câu 13",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC14",
+      "topic": "Đo lường & tính chất của chất",
+      "front": "Dùng dụng cụ nào để đo khối lượng?",
+      "back": "Cân.",
+      "explanation": "Cân là dụng cụ dùng để đo khối lượng.",
+      "source": "Phần I · Câu 14",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC15",
+      "topic": "Đo lường & tính chất của chất",
+      "front": "Để đo thời gian chạy quãng đường ngắn 100 m của học sinh trong giờ Thể dục, loại đồng hồ nào sau đây là thích hợp nhất?",
+      "back": "Đồng hồ bấm giây.",
+      "explanation": "Đồng hồ bấm giây phù hợp đo các khoảng thời gian ngắn với độ chính xác cao.",
+      "source": "Phần I · Câu 15",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC16",
+      "topic": "Đo lường & tính chất của chất",
+      "front": "Khi đo thời gian đi bộ của bạn A trên một quãng đường dài 50 m, em sẽ đo khoảng thời gian",
+      "back": "từ lúc bạn A xuất phát tới khi A về đến đích.",
+      "explanation": "Thời gian cần đo phải bắt đầu khi xuất phát và kết thúc khi tới đích trên đúng quãng đường 50 m.",
+      "source": "Phần I · Câu 16",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC17",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Nhóm nào sau đây hoàn toàn gồm các vật thể tự nhiên?",
+      "back": "biển, hồ, sông, suối.",
+      "explanation": "Biển, hồ, sông, suối đều có thể tồn tại tự nhiên; các nhóm khác chứa vật thể nhân tạo như mương, kênh, đập, bể bơi.",
+      "source": "Phần I · Câu 17",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC18",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Vật thể nhân tạo là",
+      "back": "máy bay.",
+      "explanation": "Máy bay do con người chế tạo nên là vật thể nhân tạo.",
+      "source": "Phần I · Câu 18",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC19",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Vào buổi sáng, ta thấy những hạt sương trên lá cây từ từ biến mất. Hiện tượng này thể hiện quá trình chuyển thể nào?",
+      "back": "Từ lỏng sang hơi.",
+      "explanation": "Sương ở thể lỏng chuyển dần thành hơi nước, đó là sự hóa hơi.",
+      "source": "Phần I · Câu 19",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC20",
+      "topic": "Đo lường & tính chất của chất",
+      "front": "Biến đổi nào sau đây là biến đổi hóa học?",
+      "back": "Đinh sắt để lâu trong không khí bị gỉ.",
+      "explanation": "Sắt bị gỉ tạo thành chất mới nên là biến đổi hóa học.",
+      "source": "Phần I · Câu 20",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC21",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Tính chất vật lí nào sau đây là đúng đối với oxygen?",
+      "back": "Oxygen là chất khí, tan ít trong nước và nặng hơn không khí.",
+      "explanation": "Oxygen là khí không màu, ít tan trong nước và có khối lượng riêng lớn hơn không khí.",
+      "source": "Phần I · Câu 21",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC22",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Vào những ngày trời rất lạnh, nhiều khu vực ở nước ta như Sa Pa (Lào Cai), Mẫu Sơn (Lạng Sơn)... có hiện tượng nước đóng băng, tuyết rơi. Đây là sự chuyển thể nào?",
+      "back": "Sự đông đặc.",
+      "explanation": "Nước chuyển từ thể lỏng sang thể rắn là sự đông đặc.",
+      "source": "Phần I · Câu 22",
+      "image": null,
+      "note": "Cần kiểm tra cách diễn đạt: câu gộp “nước đóng băng” và “tuyết rơi”, trong khi giải thích chỉ nói nước lỏng chuyển sang rắn. Giữ nguyên đáp án B theo tài liệu."
+    },
+    {
+      "id": "FC-MC23",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Chất nào sau đây chiếm tỉ lệ phần trăm thể tích lớn nhất trong thành phần không khí chuẩn?",
+      "back": "Nitrogen.",
+      "explanation": "Nitrogen chiếm khoảng 78% thể tích không khí, lớn nhất trong các thành phần nêu.",
+      "source": "Phần I · Câu 23",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC24",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Khi để cục nước đá ở nhiệt độ phòng, đá tan dần, đây là sự chuyển thể nào?",
+      "back": "Sự nóng chảy.",
+      "explanation": "Nước đá từ thể rắn chuyển sang thể lỏng là sự nóng chảy.",
+      "source": "Phần I · Câu 24",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC25",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Nguyên nhân nào sau đây không gây ô nhiễm không khí?",
+      "back": "Khí sinh ra từ quá trình quang hợp của cây xanh.",
+      "explanation": "Quang hợp của cây xanh tạo oxygen; đây không phải nguồn gây ô nhiễm không khí trong các lựa chọn.",
+      "source": "Phần I · Câu 25",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC26",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Tại sao ở thành cốc đựng nước đá lại xuất hiện những giọt nước nhỏ?",
+      "back": "Trong không khí có hơi nước.",
+      "explanation": "Hơi nước trong không khí gặp thành cốc lạnh, ngưng tụ thành các giọt nước.",
+      "source": "Phần I · Câu 26",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC27",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Biện pháp duy trì nguồn cung cấp oxygen trong không khí?",
+      "back": "Trồng cây gây rừng, chăm sóc cây xanh.",
+      "explanation": "Cây xanh quang hợp góp phần bổ sung oxygen cho không khí.",
+      "source": "Phần I · Câu 27",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC28",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Quá trình nào sau đây cần oxygen?",
+      "back": "Hô hấp.",
+      "explanation": "Hô hấp sử dụng oxygen để giải phóng năng lượng từ chất dinh dưỡng.",
+      "source": "Phần I · Câu 28",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC29",
+      "topic": "An toàn thực hành",
+      "front": "Khi một can xăng bất cẩn bốc cháy, chọn giải pháp chữa cháy nào dưới đây phù hợp nhất?",
+      "back": "Dùng cát đổ trùm lên.",
+      "explanation": "Cát phủ lên đám cháy giúp cách li nhiên liệu với oxygen; dùng nước với xăng có thể làm xăng loang rộng.",
+      "source": "Phần I · Câu 29",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-MC30",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Nhiệt độ lạnh nhất trên Trái Đất từng ghi lại được là −89 °C. Khi đó oxygen ở thể nào?",
+      "back": "Khí.",
+      "explanation": "Ở −89 °C, oxygen vẫn ở thể khí vì nhiệt độ này còn cao hơn nhiều so với nhiệt độ hóa lỏng của oxygen.",
+      "source": "Phần I · Câu 30",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF01a",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Khi nghiên cứu về vai trò của Khoa học tự nhiên và phương pháp sử dụng các thiết bị kính lúp, kính hiển vi trong phòng thực hành:\na) Khoa học tự nhiên có vai trò chủ yếu là nghiên cứu các sự kiện lịch sử của loài người trong quá khứ.",
+      "back": "Sai",
+      "explanation": "Lịch sử loài người thuộc lĩnh vực Lịch sử, không phải vai trò chủ yếu của Khoa học tự nhiên.",
+      "source": "Phần II · Câu 1 · Ý a",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF01b",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Khi nghiên cứu về vai trò của Khoa học tự nhiên và phương pháp sử dụng các thiết bị kính lúp, kính hiển vi trong phòng thực hành:\nb) Việc nghiên cứu chế tạo ra các loại xe ô tô điện, xe máy điện thân thiện với môi trường thể hiện rõ vai trò ứng dụng công nghệ của KHTN vào cuộc sống, sản xuất.",
+      "back": "Đúng",
+      "explanation": "Đây là ví dụ ứng dụng tri thức khoa học tự nhiên và công nghệ vào sản xuất, đời sống.",
+      "source": "Phần II · Câu 1 · Ý b",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF01c",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Khi nghiên cứu về vai trò của Khoa học tự nhiên và phương pháp sử dụng các thiết bị kính lúp, kính hiển vi trong phòng thực hành:\nc) Để quan sát rõ hình dạng các bào quan trong quả cà chua, ta chỉ cần dùng một chiếc kính lúp cầm tay thông thường có độ phóng đại 10 lần.",
+      "back": "Sai",
+      "explanation": "Các cấu trúc tế bào rất nhỏ, cần kính hiển vi thay vì chỉ dùng kính lúp 10 lần.",
+      "source": "Phần II · Câu 1 · Ý c",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF01d",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Khi nghiên cứu về vai trò của Khoa học tự nhiên và phương pháp sử dụng các thiết bị kính lúp, kính hiển vi trong phòng thực hành:\nd) Sau khi sử dụng kính hiển vi quang học, ta cần lau sạch bụi bẩn trên thị kính và vật kính thường xuyên bằng khăn lau chuyên dụng mềm để bảo quản thấu kính không bị trầy xước.",
+      "back": "Đúng",
+      "explanation": "Dùng khăn chuyên dụng mềm giúp vệ sinh và bảo vệ bề mặt thấu kính.",
+      "source": "Phần II · Câu 1 · Ý d",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF02a",
+      "topic": "An toàn thực hành",
+      "front": "An toàn trong phòng thực hành\na) Khi làm thí nghiệm phải tuân thủ nội quy phòng thực hành.",
+      "back": "Đúng",
+      "explanation": "Tuân thủ nội quy là yêu cầu cơ bản để bảo đảm an toàn.",
+      "source": "Phần II · Câu 2 · Ý a",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF02b",
+      "topic": "An toàn thực hành",
+      "front": "An toàn trong phòng thực hành\nb) Có thể tự ý thử nếm dung dịch trong phòng thí nghiệm.",
+      "back": "Sai",
+      "explanation": "Không được tự ý nếm hóa chất vì có nguy cơ gây độc hoặc tổn thương.",
+      "source": "Phần II · Câu 2 · Ý b",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF02c",
+      "topic": "An toàn thực hành",
+      "front": "An toàn trong phòng thực hành\nc) Cần đeo kính bảo hộ khi làm thí nghiệm có chất dễ bắn.",
+      "back": "Đúng",
+      "explanation": "Kính bảo hộ giúp bảo vệ mắt khỏi hóa chất hoặc vật liệu bắn vào.",
+      "source": "Phần II · Câu 2 · Ý c",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF02d",
+      "topic": "An toàn thực hành",
+      "front": "An toàn trong phòng thực hành\nd) Có thể đùa nghịch thoải mái trong khi làm thí nghiệm.",
+      "back": "Sai",
+      "explanation": "Đùa nghịch làm tăng nguy cơ tai nạn trong phòng thực hành.",
+      "source": "Phần II · Câu 2 · Ý d",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF03a",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Sử dụng kính lúp\na) Kính lúp có thể phóng to ảnh vật lên vài trăm lần.",
+      "back": "Sai",
+      "explanation": "Kính lúp thông thường chỉ phóng đại ở mức thấp, không tới vài trăm lần.",
+      "source": "Phần II · Câu 3 · Ý a",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF03b",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Sử dụng kính lúp\nb) Khi dùng kính lúp, mắt cần đặt sát vào vật quan sát.",
+      "back": "Sai",
+      "explanation": "Cần đặt kính lúp gần vật và điều chỉnh khoảng cách giữa mắt, kính và vật để ảnh rõ.",
+      "source": "Phần II · Câu 3 · Ý b",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF03c",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Sử dụng kính lúp\nc) Kính lúp thường được dùng để quan sát tế bào thực vật, động vật.",
+      "back": "Sai",
+      "explanation": "Quan sát tế bào thường cần kính hiển vi.",
+      "source": "Phần II · Câu 3 · Ý c",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF03d",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Sử dụng kính lúp\nd) Lau chùi, vệ sinh kính lúp thường xuyên bằng khăn mềm.",
+      "back": "Đúng",
+      "explanation": "Khăn mềm giúp làm sạch mà hạn chế làm xước kính.",
+      "source": "Phần II · Câu 3 · Ý d",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF04a",
+      "topic": "Đo lường & tính chất của chất",
+      "front": "Xem xét các quy trình đo lường đại lượng vật lí và sự biến đổi của các chất quanh ta:\na) Khi đo chiều dài của một chiếc bút chì bằng thước thẳng, ta phải đặt thước dọc theo chiều dài bút và vạch số 0 của thước phải trùng với một đầu của bút chì.",
+      "back": "Đúng",
+      "explanation": "Đây là cách đặt thước đúng để xác định chiều dài trực tiếp.",
+      "source": "Phần II · Câu 4 · Ý a",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF04b",
+      "topic": "Đo lường & tính chất của chất",
+      "front": "Xem xét các quy trình đo lường đại lượng vật lí và sự biến đổi của các chất quanh ta:\nb) Việc đặt mắt hướng xiên (lệch góc) so với cạnh thước ở đầu kia của bút chì khi đọc kết quả đo vẫn đảm bảo kết quả đo có độ chính xác tuyệt đối.",
+      "back": "Sai",
+      "explanation": "Mắt nhìn xiên gây sai số thị sai; cần nhìn vuông góc với vạch chia.",
+      "source": "Phần II · Câu 4 · Ý b",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF04c",
+      "topic": "Đo lường & tính chất của chất",
+      "front": "Xem xét các quy trình đo lường đại lượng vật lí và sự biến đổi của các chất quanh ta:\nc) Quá trình đinh sắt để lâu trong không khí bị gỉ tạo thành lớp chất mới màu nâu, giòn, xốp là biểu hiện tính chất hóa học của chất.",
+      "back": "Đúng",
+      "explanation": "Có chất mới tạo thành nên đây là biến đổi hóa học.",
+      "source": "Phần II · Câu 4 · Ý c",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF04d",
+      "topic": "Đo lường & tính chất của chất",
+      "front": "Xem xét các quy trình đo lường đại lượng vật lí và sự biến đổi của các chất quanh ta:\nd) Khi hòa tan đường ăn vào một cốc nước nóng, đường sẽ tan nhanh hơn so với cốc nước lạnh vì nhiệt độ cao làm cho các hạt cấu tạo nên chất chuyển động chậm lại.",
+      "back": "Sai",
+      "explanation": "Nhiệt độ cao làm các hạt chuyển động nhanh hơn, giúp quá trình hòa tan diễn ra nhanh hơn.",
+      "source": "Phần II · Câu 4 · Ý d",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF05a",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Đánh giá về sự chuyển thể của chất, vai trò của khí oxygen và bầu không khí:\na) Hiện tượng tuyết rơi và nước đóng băng vào mùa đông tại Sa Pa là kết quả của quá trình chuyển thể từ thể khí trực tiếp sang thể rắn (quá trình ngưng tụ).",
+      "back": "Sai",
+      "explanation": "Nước đóng băng là chuyển từ lỏng sang rắn (đông đặc); mô tả 'khí trực tiếp sang rắn' cũng không phải ngưng tụ.",
+      "source": "Phần II · Câu 5 · Ý a",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF05b",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Đánh giá về sự chuyển thể của chất, vai trò của khí oxygen và bầu không khí:\nb) Các hạt cấu tạo nên chất ở thể khí nằm rất xa nhau, chuyển động tự do hỗn loạn về mọi hướng và luôn chiếm đầy thể tích của vật chứa.",
+      "back": "Đúng",
+      "explanation": "Đó là đặc điểm mô hình hạt của chất khí.",
+      "source": "Phần II · Câu 5 · Ý b",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF05c",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Đánh giá về sự chuyển thể của chất, vai trò của khí oxygen và bầu không khí:\nc) Sự ô nhiễm không khí chủ yếu do khói bụi, rác thải và khí thải từ các phương tiện giao thông, nhà máy gây ra hiện tượng hiệu ứng nhà kính, mưa acid và các bệnh hô hấp ở người.",
+      "back": "Đúng",
+      "explanation": "Các nguồn thải này làm suy giảm chất lượng không khí và gây nhiều tác động môi trường, sức khỏe.",
+      "source": "Phần II · Câu 5 · Ý c",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF05d",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Đánh giá về sự chuyển thể của chất, vai trò của khí oxygen và bầu không khí:\nd) Trồng cây xanh và tích cực bảo vệ rừng là một trong những giải pháp sinh học thực tiễn giúp duy trì và ổn định nguồn cung cấp oxygen tự nhiên trong không khí.",
+      "back": "Đúng",
+      "explanation": "Cây xanh quang hợp, góp phần bổ sung oxygen cho khí quyển.",
+      "source": "Phần II · Câu 5 · Ý d",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF06a",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Oxygen – Không khí\na) Oxygen chiếm khoảng 21% thể tích không khí.",
+      "back": "Đúng",
+      "explanation": "Oxygen chiếm xấp xỉ 21% thể tích không khí.",
+      "source": "Phần II · Câu 6 · Ý a",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF06b",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Oxygen – Không khí\nb) Không khí gồm nhiều thành phần, trong đó bụi bẩn chiếm nhiều nhất.",
+      "back": "Sai",
+      "explanation": "Thành phần chiếm nhiều nhất trong không khí là nitrogen.",
+      "source": "Phần II · Câu 6 · Ý b",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF06c",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Oxygen – Không khí\nc) Oxygen không liên quan đến hô hấp và sự cháy.",
+      "back": "Sai",
+      "explanation": "Oxygen cần cho hô hấp và duy trì sự cháy.",
+      "source": "Phần II · Câu 6 · Ý c",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-TF06d",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Oxygen – Không khí\nd) Không khí là một chất tinh khiết, chỉ gồm oxygen.",
+      "back": "Sai",
+      "explanation": "Không khí là hỗn hợp nhiều chất khí, chủ yếu nitrogen và oxygen.",
+      "source": "Phần II · Câu 6 · Ý d",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-SHORT01",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Trong các lĩnh vực: Vật lí, Hóa học, Thể dục thể thao, Sinh học, Khoa học Trái Đất, Lịch sử, có mấy lĩnh vực thuộc khoa học tự nhiên?",
+      "back": "4",
+      "explanation": "Các lĩnh vực thuộc KHTN là Vật lí, Hóa học, Sinh học và Khoa học Trái Đất.",
+      "source": "Phần III · Câu 1",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-SHORT02",
+      "topic": "An toàn thực hành",
+      "front": "Trong phòng thí nghiệm thường có tối thiểu bao nhiêu nhóm biển báo an toàn chính?",
+      "back": "4",
+      "explanation": "Các nhóm biển báo an toàn thường gồm: cấm, cảnh báo, bắt buộc và chỉ dẫn/thoát hiểm.",
+      "source": "Phần III · Câu 2",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-SHORT03",
+      "topic": "Khoa học tự nhiên & kính",
+      "front": "Kính hiển vi quang học có thể phóng đại vật lên tối đa khoảng bao nhiêu lần?",
+      "back": "3000 lần",
+      "explanation": "Theo phạm vi nêu trong chính tài liệu, kính hiển vi có khả năng phóng đại đến khoảng 3000 lần.",
+      "source": "Phần III · Câu 3",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-SHORT04",
+      "topic": "Đo lường & tính chất của chất",
+      "front": "Một quãng đường dài 1,5 km tương ứng với bao nhiêu mét (m)?",
+      "back": "1500 m",
+      "explanation": "1 km = 1000 m nên 1,5 km = 1,5 × 1000 = 1500 m.",
+      "source": "Phần III · Câu 4",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-SHORT05",
+      "topic": "Đo lường & tính chất của chất",
+      "front": "Trên một thước đo học sinh, khoảng cách giữa vạch chia số 0 và vạch chia số 1 cm được chia đều làm 10 khoảng bằng nhau. ĐCNN của thước tương ứng bao nhiêu milimét (mm)?",
+      "back": "1 mm",
+      "explanation": "1 cm = 10 mm; chia thành 10 khoảng bằng nhau nên mỗi khoảng là 1 mm.",
+      "source": "Phần III · Câu 5",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-SHORT06",
+      "topic": "Chất, oxygen & không khí",
+      "front": "Trong không khí chuẩn, nitrogen chiếm khoảng bao nhiêu phần trăm thể tích?",
+      "back": "78%",
+      "explanation": "Nitrogen chiếm khoảng 78% thể tích không khí chuẩn.",
+      "source": "Phần III · Câu 6",
+      "image": null,
+      "note": null
+    },
+    {
+      "id": "FC-ESSAY1-0",
+      "topic": "Tự luận & kiến thức",
+      "front": "Câu 1. Hãy nêu một số quy định an toàn trong phòng thực hành?",
+      "back": "Gợi ý theo nội dung tài liệu: mặc trang phục gọn gàng; sử dụng bảo hộ phù hợp như găng tay, khẩu trang, kính bảo vệ mắt khi cần; không ăn uống, đùa nghịch trong phòng thí nghiệm; không nếm/ngửi trực tiếp hóa chất; chỉ tiến hành thí nghiệm khi có hướng dẫn; nhận biết vật liệu nguy hiểm; giữ nơi làm việc gọn gàng và thu dọn, sắp xếp dụng cụ sau khi thực hành.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 1",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY2-0",
+      "topic": "Tự luận & kiến thức",
+      "front": "Câu 2. a) Hãy nêu tính chất vật lí của oxygen.",
+      "back": "a) Oxygen là chất khí không màu, không mùi, ít tan trong nước và nặng hơn không khí.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 2",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY2-1",
+      "topic": "Tự luận & kiến thức",
+      "front": "b) Hãy nêu tầm quan trọng của oxygen.",
+      "back": "b) Oxygen cần thiết cho hô hấp và sự cháy.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 2",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY2-2",
+      "topic": "Tự luận & kiến thức",
+      "front": "c) Hãy nêu nguyên nhân, hậu quả của ô nhiễm không khí.",
+      "back": "c) Nguyên nhân tiêu biểu trong tài liệu: khí thải phương tiện giao thông, khí thải nhà máy, khói bụi...; hậu quả: ảnh hưởng sức khỏe, bệnh hô hấp, mưa acid, hiệu ứng nhà kính.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 2",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY2-3",
+      "topic": "Tự luận & kiến thức",
+      "front": "d) Hãy nêu các giải pháp để bảo vệ môi trường không khí?",
+      "back": "d) Trồng và bảo vệ cây xanh/rừng; giảm và xử lí khí thải; hạn chế các hoạt động gây ô nhiễm không khí.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 2",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY3-0",
+      "topic": "Tự luận & kiến thức",
+      "front": "Câu 3. Một nghiên cứu thực tế cho biết: Khi đốt cháy 1 lít xăng, cần 1950 lít oxygen và sinh ra 1248 lít khí carbon dioxide. Một ô tô khi chạy một quãng đường dài 400 km tiêu thụ hết 28 lít xăng. Coi oxygen chiếm 1/5 thể tích không khí.\nLượng xăng tiêu thụ khi đi 100 km?",
+      "back": "Xe đi 100 km tiêu thụ: 28 × 100/400 = 7 lít xăng.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 3",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY3-1",
+      "topic": "Tự luận & kiến thức",
+      "front": "Câu 3. Một nghiên cứu thực tế cho biết: Khi đốt cháy 1 lít xăng, cần 1950 lít oxygen và sinh ra 1248 lít khí carbon dioxide. Một ô tô khi chạy một quãng đường dài 400 km tiêu thụ hết 28 lít xăng. Coi oxygen chiếm 1/5 thể tích không khí.\na) Hãy tính thể tích không khí (lít) tối thiểu cần cung cấp để ô tô đốt cháy hết lượng xăng trên trong suốt quãng đường 100 km.",
+      "back": "Xe đi 100 km tiêu thụ: 28 × 100/400 = 7 lít xăng.\na) Oxygen cần: 7 × 1950 = 13 650 lít. Vì oxygen chiếm 1/5 thể tích không khí nên thể tích không khí tối thiểu = 13 650 × 5 = 68 250 lít.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 3",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY3-2",
+      "topic": "Tự luận & kiến thức",
+      "front": "Câu 3. Một nghiên cứu thực tế cho biết: Khi đốt cháy 1 lít xăng, cần 1950 lít oxygen và sinh ra 1248 lít khí carbon dioxide. Một ô tô khi chạy một quãng đường dài 400 km tiêu thụ hết 28 lít xăng. Coi oxygen chiếm 1/5 thể tích không khí.\nb) Hãy tính thể tích khí carbon dioxide (lít) thải trực tiếp ra môi trường sau khi xe chạy quãng đường dài 100 km.",
+      "back": "Xe đi 100 km tiêu thụ: 28 × 100/400 = 7 lít xăng.\nb) CO₂ tạo ra = 7 × 1248 = 8 736 lít.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 3",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY4-0",
+      "topic": "Tự luận & kiến thức",
+      "front": "1) 1 m = ... cm = ... mm",
+      "back": "1) 1 m = 100 cm = 1000 mm.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 4",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY4-1",
+      "topic": "Tự luận & kiến thức",
+      "front": "2) 2 km = ... m",
+      "back": "2) 2 km = 2000 m.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 4",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY4-2",
+      "topic": "Tự luận & kiến thức",
+      "front": "3) 1,5 lít = ... ml = ... cm³",
+      "back": "3) 1,5 lít = 1500 ml = 1500 cm³.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 4",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY4-3",
+      "topic": "Tự luận & kiến thức",
+      "front": "4) 2,5 giờ = ... phút = ... giây",
+      "back": "4) 2,5 giờ = 150 phút = 9000 giây.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 4",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY4-4",
+      "topic": "Tự luận & kiến thức",
+      "front": "5) 3,5 kg = ... gam",
+      "back": "5) 3,5 kg = 3500 gam.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 4",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY4-5",
+      "topic": "Tự luận & kiến thức",
+      "front": "6) 5 cm = ... dm = ... m",
+      "back": "6) 5 cm = 0,5 dm = 0,05 m.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 4",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY4-6",
+      "topic": "Tự luận & kiến thức",
+      "front": "7) 1 m³ = ... lít = ... dm³",
+      "back": "7) 1 m³ = 1000 lít = 1000 dm³.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 4",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY4-7",
+      "topic": "Tự luận & kiến thức",
+      "front": "8) 360 phút = ... giờ",
+      "back": "8) 360 phút = 6 giờ.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 4",
+      "image": null
+    },
+    {
+      "id": "FC-ESSAY4-8",
+      "topic": "Tự luận & kiến thức",
+      "front": "9) 1,5 ngày = ... giờ",
+      "back": "9) 1,5 ngày = 36 giờ.",
+      "explanation": "",
+      "source": "B. Tự luận · Câu 4",
+      "image": null
+    }
+  ],
+  "ESSAYS": [
+    {
+      "id": "ESSAY1",
+      "question": "Câu 1. Hãy nêu một số quy định an toàn trong phòng thực hành?",
+      "answer": "Gợi ý theo nội dung tài liệu: mặc trang phục gọn gàng; sử dụng bảo hộ phù hợp như găng tay, khẩu trang, kính bảo vệ mắt khi cần; không ăn uống, đùa nghịch trong phòng thí nghiệm; không nếm/ngửi trực tiếp hóa chất; chỉ tiến hành thí nghiệm khi có hướng dẫn; nhận biết vật liệu nguy hiểm; giữ nơi làm việc gọn gàng và thu dọn, sắp xếp dụng cụ sau khi thực hành.",
+      "source": "B. Tự luận · Câu 1"
+    },
+    {
+      "id": "ESSAY2",
+      "question": "Câu 2. a) Hãy nêu tính chất vật lí của oxygen.\nb) Hãy nêu tầm quan trọng của oxygen.\nc) Hãy nêu nguyên nhân, hậu quả của ô nhiễm không khí.\nd) Hãy nêu các giải pháp để bảo vệ môi trường không khí?",
+      "answer": "a) Oxygen là chất khí không màu, không mùi, ít tan trong nước và nặng hơn không khí.\nb) Oxygen cần thiết cho hô hấp và sự cháy.\nc) Nguyên nhân tiêu biểu trong tài liệu: khí thải phương tiện giao thông, khí thải nhà máy, khói bụi...; hậu quả: ảnh hưởng sức khỏe, bệnh hô hấp, mưa acid, hiệu ứng nhà kính.\nd) Trồng và bảo vệ cây xanh/rừng; giảm và xử lí khí thải; hạn chế các hoạt động gây ô nhiễm không khí.",
+      "source": "B. Tự luận · Câu 2"
+    },
+    {
+      "id": "ESSAY3",
+      "question": "Câu 3. Một nghiên cứu thực tế cho biết: Khi đốt cháy 1 lít xăng, cần 1950 lít oxygen và sinh ra 1248 lít khí carbon dioxide. Một ô tô khi chạy một quãng đường dài 400 km tiêu thụ hết 28 lít xăng. Coi oxygen chiếm 1/5 thể tích không khí.\na) Hãy tính thể tích không khí (lít) tối thiểu cần cung cấp để ô tô đốt cháy hết lượng xăng trên trong suốt quãng đường 100 km.\nb) Hãy tính thể tích khí carbon dioxide (lít) thải trực tiếp ra môi trường sau khi xe chạy quãng đường dài 100 km.",
+      "answer": "Xe đi 100 km tiêu thụ: 28 × 100/400 = 7 lít xăng.\na) Oxygen cần: 7 × 1950 = 13 650 lít. Vì oxygen chiếm 1/5 thể tích không khí nên thể tích không khí tối thiểu = 13 650 × 5 = 68 250 lít.\nb) CO₂ tạo ra = 7 × 1248 = 8 736 lít.",
+      "source": "B. Tự luận · Câu 3"
+    },
+    {
+      "id": "ESSAY4",
+      "question": "Câu 4. Thực hiện các phép đổi đơn vị sau:\n1) 1 m = ... cm = ... mm\n2) 2 km = ... m\n3) 1,5 lít = ... ml = ... cm³\n4) 2,5 giờ = ... phút = ... giây\n5) 3,5 kg = ... gam\n6) 5 cm = ... dm = ... m\n7) 1 m³ = ... lít = ... dm³\n8) 360 phút = ... giờ\n9) 1,5 ngày = ... giờ",
+      "answer": "1) 1 m = 100 cm = 1000 mm.\n2) 2 km = 2000 m.\n3) 1,5 lít = 1500 ml = 1500 cm³.\n4) 2,5 giờ = 150 phút = 9000 giây.\n5) 3,5 kg = 3500 gam.\n6) 5 cm = 0,5 dm = 0,05 m.\n7) 1 m³ = 1000 lít = 1000 dm³.\n8) 360 phút = 6 giờ.\n9) 1,5 ngày = 36 giờ.",
+      "source": "B. Tự luận · Câu 4"
+    }
+  ],
+  "SOURCE_DOCUMENT": "ĐỀ CƯƠNG ÔN TẬP GIỮA KÌ I – NĂM HỌC 2026–2027\nMÔN KHOA HỌC TỰ NHIÊN – LỚP 6\nĐÁP ÁN VÀ GIẢI THÍCH\nNội dung ôn tập: Từ bài 1 đến bài 11 trong Sách giáo khoa Khoa học tự nhiên 6.\nA. TRẮC NGHIỆM\nPHẦN I. Câu hỏi nhiều lựa chọn\nChọn 1 phương án đúng cho mỗi câu.\nCâu 1. Kính lúp cầm tay thông thường có thể phóng to ảnh của vật lên khoảng bao nhiêu lần?\nA. 20 lần.\nB. 200 lần.\nC. 50 lần.\nD. 500 lần.\nĐáp án: A. Giải thích: Kính lúp cầm tay thông thường có độ phóng đại khoảng vài lần đến khoảng 20 lần.\nCâu 2. Các biển báo dưới đây có ý nghĩa gì?\nA. Cấm thực hiện.\nB. Bắt buộc thực hiện.\nC. Cảnh báo nguy hiểm.\nD. Không bắt buộc thực hiện.\nĐáp án: A. Giải thích: Các hình đều có vòng tròn và vạch chéo, là dạng biển cấm.\nCâu 3. Độ chia nhỏ nhất (ĐCNN) của một thước đo được định nghĩa là\nA. giá trị cuối cùng trên thước.\nB. giá trị nhỏ nhất trên thước.\nC. chiều dài giữa 2 vạch liên tiếp trên thước.\nD. nửa chiều dài của thước.\nĐáp án: C. Giải thích: ĐCNN là giá trị ứng với khoảng cách giữa hai vạch chia liên tiếp trên dụng cụ đo.\nCâu 4. Trên một cái thước học sinh có số lớn nhất là 30 cm. Từ vạch số 0 đến vạch số 1 được chia làm 5 khoảng bằng nhau. Vậy GHĐ và ĐCNN của thước là\nA. GHĐ 30 cm; ĐCNN 0 cm.\nB. GHĐ 30 cm; ĐCNN 2 mm.\nC. GHĐ 30 cm; ĐCNN 1 mm.\nD. GHĐ 30 cm; ĐCNN 5 mm.\nĐáp án: B. Giải thích: GHĐ là 30 cm. Mỗi 1 cm chia 5 khoảng nên ĐCNN = 1/5 cm = 0,2 cm = 2 mm.\nCâu 5. Khả năng phóng to ảnh của vật bằng kính hiển vi là\nA. 3–20 lần.\nB. 10–20 lần.\nC. 20–100 lần.\nD. 40–3000 lần.\nĐáp án: D. Giải thích: Kính hiển vi có độ phóng đại lớn, trong phạm vi nêu trong tài liệu là 40–3000 lần.\nCâu 6. Quy định an toàn nào sau đây là bắt buộc khi làm việc trong phòng thực hành có sử dụng hóa chất dễ bắn?\nA. Đùa nghịch thoải mái cùng bạn học.\nB. Tự ý thử nếm mùi vị của các dung dịch hóa chất.\nC. Đeo kính bảo hộ, khẩu trang và găng tay.\nD. Không cần thu dọn chai lọ hóa chất sau khi làm xong.\nĐáp án: C. Giải thích: Trang bị kính bảo hộ, khẩu trang và găng tay giúp hạn chế tiếp xúc trực tiếp với hóa chất.\nCâu 7. Chọn câu đúng: 1 kilogram là\nA. khối lượng của một lít nước.\nB. khối lượng của một lượng vàng.\nC. khối lượng của một vật bất kì.\nD. khối lượng của một quả cân mẫu đặt tại Viện Đo lường quốc tế ở Pháp.\nĐáp án: D. Giải thích: Theo cách trình bày trong tài liệu, kilogram được gắn với quả cân mẫu chuẩn quốc tế.\nCâu 8. Vật nào sau đây gọi là vật không sống?\nA. Con ong.\nB. Vi khuẩn.\nC. Than củi.\nD. Cây cam.\nĐáp án: C. Giải thích: Than củi không thực hiện các đặc trưng sống như trao đổi chất, sinh trưởng và sinh sản.\nCâu 9. Có thể sử dụng kính lúp để quan sát vật nào sau đây?\nA. Các bộ phận trên xác một con muỗi.\nB. Toàn bộ cơ thể một con voi.\nC. Tế bào thịt quả cà chua.\nD. Mặt trăng.\nĐáp án: A. Giải thích: Kính lúp phù hợp quan sát các chi tiết nhỏ có thể nhìn thấy ở mức phóng đại thấp, như các bộ phận của muỗi.\nCâu 10. Hoạt động nào trong các hoạt động sau đây là hoạt động nghiên cứu khoa học?\nA. Chơi bóng rổ.\nB. Cấy lúa.\nC. Đánh đàn.\nD. Tìm hiểu đặc điểm sinh học của các loài tôm.\nĐáp án: D. Giải thích: Tìm hiểu có hệ thống đặc điểm sinh học của loài là hoạt động nghiên cứu khoa học.\nCâu 11. Muốn quan sát hình dạng và cấu trúc chi tiết của các tế bào thực vật, ta cần sử dụng dụng cụ nào?\nA. Kính có độ (cận, lão...).\nB. Kính lúp.\nC. Kính hiển vi.\nD. Kính hiển vi hoặc kính lúp.\nĐáp án: C. Giải thích: Tế bào có kích thước rất nhỏ nên cần kính hiển vi để quan sát hình dạng và cấu trúc chi tiết.\nCâu 12. Một xe chở mì khi lên trạm cân, số chỉ là 4,3 tấn và sau khi đổ mì khỏi xe và cân lại thì xe có khối lượng là 680 kg. Hỏi khối lượng của mì là bao nhiêu kilogram?\nA. 4980.\nB. 3620.\nC. 4300.\nD. 5800.\nĐáp án: B. Giải thích: 4,3 tấn = 4300 kg; khối lượng mì = 4300 − 680 = 3620 kg.\nCâu 13. Đơn vị đo khối lượng trong hệ thống đo lường chính thức ở nước ta là\nA. tấn.\nB. miligam.\nC. kilôgam.\nD. gam.\nĐáp án: C. Giải thích: Đơn vị cơ bản dùng chính thức cho khối lượng là kilôgam (kg).\nCâu 14. Dùng dụng cụ nào để đo khối lượng?\nA. Thước.\nB. Đồng hồ.\nC. Cân.\nD. Nhiệt kế.\nĐáp án: C. Giải thích: Cân là dụng cụ dùng để đo khối lượng.\nCâu 15. Để đo thời gian chạy quãng đường ngắn 100 m của học sinh trong giờ Thể dục, loại đồng hồ nào sau đây là thích hợp nhất?\nA. Đồng hồ treo tường.\nB. Đồng hồ cát.\nC. Đồng hồ bấm giây.\nD. Đồng hồ đeo tay.\nĐáp án: C. Giải thích: Đồng hồ bấm giây phù hợp đo các khoảng thời gian ngắn với độ chính xác cao.\nCâu 16. Khi đo thời gian đi bộ của bạn A trên một quãng đường dài 50 m, em sẽ đo khoảng thời gian\nA. từ lúc bạn A xuất phát tới khi A về đến đích.\nB. từ lúc bạn A đi được 1 bước tới khi A về tới đích.\nC. bạn A đi được bộ được 25 m rồi nhân đôi.\nD. bạn A đi bộ 100 m rồi chia đôi.\nĐáp án: A. Giải thích: Thời gian cần đo phải bắt đầu khi xuất phát và kết thúc khi tới đích trên đúng quãng đường 50 m.\nCâu 17. Nhóm nào sau đây hoàn toàn gồm các vật thể tự nhiên?\nA. biển, hồ, sông, suối.\nB. biển, mương, kênh, bể nước.\nC. đập nước, máng, đại dương, rạch.\nD. hồ, thác, giếng, bể bơi.\nĐáp án: A. Giải thích: Biển, hồ, sông, suối đều có thể tồn tại tự nhiên; các nhóm khác chứa vật thể nhân tạo như mương, kênh, đập, bể bơi.\nCâu 18. Vật thể nhân tạo là\nA. cây lúa.\nB. máy bay.\nC. mặt trời.\nD. con sóc.\nĐáp án: B. Giải thích: Máy bay do con người chế tạo nên là vật thể nhân tạo.\nCâu 19. Vào buổi sáng, ta thấy những hạt sương trên lá cây từ từ biến mất. Hiện tượng này thể hiện quá trình chuyển thể nào?\nA. Từ rắn sang lỏng.\nB. Từ lỏng sang hơi.\nC. Từ hơi sang lỏng.\nD. Từ lỏng sang rắn.\nĐáp án: B. Giải thích: Sương ở thể lỏng chuyển dần thành hơi nước, đó là sự hóa hơi.\nCâu 20. Biến đổi nào sau đây là biến đổi hóa học?\nA. Bọt sủi lên từ cốc nước ngọt có gas.\nB. Nước đá tan chảy khi để ở nhiệt độ phòng.\nC. Muối tan trong nước.\nD. Đinh sắt để lâu trong không khí bị gỉ.\nĐáp án: D. Giải thích: Sắt bị gỉ tạo thành chất mới nên là biến đổi hóa học.\nCâu 21. Tính chất vật lí nào sau đây là đúng đối với oxygen?\nA. Oxygen là chất khí, tan ít trong nước và nặng hơn không khí.\nB. Oxygen là chất khí, tan vô hạn trong nước và nặng hơn không khí.\nC. Oxygen là chất khí, tan ít trong nước và nhẹ hơn không khí.\nD. Oxygen là chất khí, tan vô hạn trong nước và nhẹ hơn không khí.\nĐáp án: A. Giải thích: Oxygen là khí không màu, ít tan trong nước và có khối lượng riêng lớn hơn không khí.\nCâu 22. Vào những ngày trời rất lạnh, nhiều khu vực ở nước ta như Sa Pa (Lào Cai), Mẫu Sơn (Lạng Sơn)... có hiện tượng nước đóng băng, tuyết rơi. Đây là sự chuyển thể nào?\nA. Sự nóng chảy.\nB. Sự đông đặc.\nC. Sự hóa hơi.\nD. Sự ngưng tụ.\nĐáp án: B. Giải thích: Nước chuyển từ thể lỏng sang thể rắn là sự đông đặc.\nCâu 23. Chất nào sau đây chiếm tỉ lệ phần trăm thể tích lớn nhất trong thành phần không khí chuẩn?\nA. Oxygen.\nB. Hydrogen.\nC. Nitrogen.\nD. Carbon dioxide.\nĐáp án: C. Giải thích: Nitrogen chiếm khoảng 78% thể tích không khí, lớn nhất trong các thành phần nêu.\nCâu 24. Khi để cục nước đá ở nhiệt độ phòng, đá tan dần, đây là sự chuyển thể nào?\nA. Sự nóng chảy.\nB. Sự đông đặc.\nC. Sự hóa hơi.\nD. Sự ngưng tụ.\nĐáp án: A. Giải thích: Nước đá từ thể rắn chuyển sang thể lỏng là sự nóng chảy.\nCâu 25. Nguyên nhân nào sau đây không gây ô nhiễm không khí?\nA. Cháy rừng.\nB. Khí thải do sản xuất công nghiệp, do hoạt động của phương tiện giao thông.\nC. Hoạt động của núi lửa.\nD. Khí sinh ra từ quá trình quang hợp của cây xanh.\nĐáp án: D. Giải thích: Quang hợp của cây xanh tạo oxygen; đây không phải nguồn gây ô nhiễm không khí trong các lựa chọn.\nCâu 26. Tại sao ở thành cốc đựng nước đá lại xuất hiện những giọt nước nhỏ?\nA. Cốc bị thủng.\nB. Trong không khí có khí oxygen.\nC. Trong không khí có hơi nước.\nD. Trong không khí có khí nitrogen.\nĐáp án: C. Giải thích: Hơi nước trong không khí gặp thành cốc lạnh, ngưng tụ thành các giọt nước.\nCâu 27. Biện pháp duy trì nguồn cung cấp oxygen trong không khí?\nA. Trồng cây gây rừng, chăm sóc cây xanh.\nB. Thải các chất khí thải ra môi trường không qua xử lí.\nC. Đốt rừng làm rẫy.\nD. Phá rừng để làm đồn điền, trang trại.\nĐáp án: A. Giải thích: Cây xanh quang hợp góp phần bổ sung oxygen cho không khí.\nCâu 28. Quá trình nào sau đây cần oxygen?\nA. Hô hấp.\nB. Quang hợp.\nC. Hòa tan.\nD. Nóng chảy.\nĐáp án: A. Giải thích: Hô hấp sử dụng oxygen để giải phóng năng lượng từ chất dinh dưỡng.\nCâu 29. Khi một can xăng bất cẩn bốc cháy, chọn giải pháp chữa cháy nào dưới đây phù hợp nhất?\nA. Phun nước.\nB. Dùng cát đổ trùm lên.\nC. Dùng cồn phun vào đám cháy.\nD. Dùng chiếc chăn khô đắp lên.\nĐáp án: B. Giải thích: Cát phủ lên đám cháy giúp cách li nhiên liệu với oxygen; dùng nước với xăng có thể làm xăng loang rộng.\nCâu 30. Nhiệt độ lạnh nhất trên Trái Đất từng ghi lại được là −89 °C. Khi đó oxygen ở thể nào?\nA. Rắn.\nB. Lỏng.\nC. Khí.\nD. Đông đặc.\nĐáp án: C. Giải thích: Ở −89 °C, oxygen vẫn ở thể khí vì nhiệt độ này còn cao hơn nhiều so với nhiệt độ hóa lỏng của oxygen.\nPHẦN II. Đúng/Sai\nVới mỗi ý a), b), c), d), hãy xác định Đúng hoặc Sai.\nCâu 1. Khi nghiên cứu về vai trò của Khoa học tự nhiên và phương pháp sử dụng các thiết bị kính lúp, kính hiển vi trong phòng thực hành:\na) Khoa học tự nhiên có vai trò chủ yếu là nghiên cứu các sự kiện lịch sử của loài người trong quá khứ. — SAI — Lịch sử loài người thuộc lĩnh vực Lịch sử, không phải vai trò chủ yếu của Khoa học tự nhiên.\nb) Việc nghiên cứu chế tạo ra các loại xe ô tô điện, xe máy điện thân thiện với môi trường thể hiện rõ vai trò ứng dụng công nghệ của KHTN vào cuộc sống, sản xuất. — ĐÚNG — Đây là ví dụ ứng dụng tri thức khoa học tự nhiên và công nghệ vào sản xuất, đời sống.\nc) Để quan sát rõ hình dạng các bào quan trong quả cà chua, ta chỉ cần dùng một chiếc kính lúp cầm tay thông thường có độ phóng đại 10 lần. — SAI — Các cấu trúc tế bào rất nhỏ, cần kính hiển vi thay vì chỉ dùng kính lúp 10 lần.\nd) Sau khi sử dụng kính hiển vi quang học, ta cần lau sạch bụi bẩn trên thị kính và vật kính thường xuyên bằng khăn lau chuyên dụng mềm để bảo quản thấu kính không bị trầy xước. — ĐÚNG — Dùng khăn chuyên dụng mềm giúp vệ sinh và bảo vệ bề mặt thấu kính.\nCâu 2. An toàn trong phòng thực hành\na) Khi làm thí nghiệm phải tuân thủ nội quy phòng thực hành. — ĐÚNG — Tuân thủ nội quy là yêu cầu cơ bản để bảo đảm an toàn.\nb) Có thể tự ý thử nếm dung dịch trong phòng thí nghiệm. — SAI — Không được tự ý nếm hóa chất vì có nguy cơ gây độc hoặc tổn thương.\nc) Cần đeo kính bảo hộ khi làm thí nghiệm có chất dễ bắn. — ĐÚNG — Kính bảo hộ giúp bảo vệ mắt khỏi hóa chất hoặc vật liệu bắn vào.\nd) Có thể đùa nghịch thoải mái trong khi làm thí nghiệm. — SAI — Đùa nghịch làm tăng nguy cơ tai nạn trong phòng thực hành.\nCâu 3. Sử dụng kính lúp\na) Kính lúp có thể phóng to ảnh vật lên vài trăm lần. — SAI — Kính lúp thông thường chỉ phóng đại ở mức thấp, không tới vài trăm lần.\nb) Khi dùng kính lúp, mắt cần đặt sát vào vật quan sát. — SAI — Cần đặt kính lúp gần vật và điều chỉnh khoảng cách giữa mắt, kính và vật để ảnh rõ.\nc) Kính lúp thường được dùng để quan sát tế bào thực vật, động vật. — SAI — Quan sát tế bào thường cần kính hiển vi.\nd) Lau chùi, vệ sinh kính lúp thường xuyên bằng khăn mềm. — ĐÚNG — Khăn mềm giúp làm sạch mà hạn chế làm xước kính.\nCâu 4. Xem xét các quy trình đo lường đại lượng vật lí và sự biến đổi của các chất quanh ta:\na) Khi đo chiều dài của một chiếc bút chì bằng thước thẳng, ta phải đặt thước dọc theo chiều dài bút và vạch số 0 của thước phải trùng với một đầu của bút chì. — ĐÚNG — Đây là cách đặt thước đúng để xác định chiều dài trực tiếp.\nb) Việc đặt mắt hướng xiên (lệch góc) so với cạnh thước ở đầu kia của bút chì khi đọc kết quả đo vẫn đảm bảo kết quả đo có độ chính xác tuyệt đối. — SAI — Mắt nhìn xiên gây sai số thị sai; cần nhìn vuông góc với vạch chia.\nc) Quá trình đinh sắt để lâu trong không khí bị gỉ tạo thành lớp chất mới màu nâu, giòn, xốp là biểu hiện tính chất hóa học của chất. — ĐÚNG — Có chất mới tạo thành nên đây là biến đổi hóa học.\nd) Khi hòa tan đường ăn vào một cốc nước nóng, đường sẽ tan nhanh hơn so với cốc nước lạnh vì nhiệt độ cao làm cho các hạt cấu tạo nên chất chuyển động chậm lại. — SAI — Nhiệt độ cao làm các hạt chuyển động nhanh hơn, giúp quá trình hòa tan diễn ra nhanh hơn.\nCâu 5. Đánh giá về sự chuyển thể của chất, vai trò của khí oxygen và bầu không khí:\na) Hiện tượng tuyết rơi và nước đóng băng vào mùa đông tại Sa Pa là kết quả của quá trình chuyển thể từ thể khí trực tiếp sang thể rắn (quá trình ngưng tụ). — SAI — Nước đóng băng là chuyển từ lỏng sang rắn (đông đặc); mô tả 'khí trực tiếp sang rắn' cũng không phải ngưng tụ.\nb) Các hạt cấu tạo nên chất ở thể khí nằm rất xa nhau, chuyển động tự do hỗn loạn về mọi hướng và luôn chiếm đầy thể tích của vật chứa. — ĐÚNG — Đó là đặc điểm mô hình hạt của chất khí.\nc) Sự ô nhiễm không khí chủ yếu do khói bụi, rác thải và khí thải từ các phương tiện giao thông, nhà máy gây ra hiện tượng hiệu ứng nhà kính, mưa acid và các bệnh hô hấp ở người. — ĐÚNG — Các nguồn thải này làm suy giảm chất lượng không khí và gây nhiều tác động môi trường, sức khỏe.\nd) Trồng cây xanh và tích cực bảo vệ rừng là một trong những giải pháp sinh học thực tiễn giúp duy trì và ổn định nguồn cung cấp oxygen tự nhiên trong không khí. — ĐÚNG — Cây xanh quang hợp, góp phần bổ sung oxygen cho khí quyển.\nCâu 6. Oxygen – Không khí\na) Oxygen chiếm khoảng 21% thể tích không khí. — ĐÚNG — Oxygen chiếm xấp xỉ 21% thể tích không khí.\nb) Không khí gồm nhiều thành phần, trong đó bụi bẩn chiếm nhiều nhất. — SAI — Thành phần chiếm nhiều nhất trong không khí là nitrogen.\nc) Oxygen không liên quan đến hô hấp và sự cháy. — SAI — Oxygen cần cho hô hấp và duy trì sự cháy.\nd) Không khí là một chất tinh khiết, chỉ gồm oxygen. — SAI — Không khí là hỗn hợp nhiều chất khí, chủ yếu nitrogen và oxygen.\nPHẦN III. Câu trả lời ngắn\nCâu 1. Trong các lĩnh vực: Vật lí, Hóa học, Thể dục thể thao, Sinh học, Khoa học Trái Đất, Lịch sử, có mấy lĩnh vực thuộc khoa học tự nhiên?\nĐáp án: 4. Giải thích: Các lĩnh vực thuộc KHTN là Vật lí, Hóa học, Sinh học và Khoa học Trái Đất.\nCâu 2. Trong phòng thí nghiệm thường có tối thiểu bao nhiêu nhóm biển báo an toàn chính?\nĐáp án: 4. Giải thích: Các nhóm biển báo an toàn thường gồm: cấm, cảnh báo, bắt buộc và chỉ dẫn/thoát hiểm.\nCâu 3. Kính hiển vi quang học có thể phóng đại vật lên tối đa khoảng bao nhiêu lần?\nĐáp án: 3000 lần. Giải thích: Theo phạm vi nêu trong chính tài liệu, kính hiển vi có khả năng phóng đại đến khoảng 3000 lần.\nCâu 4. Một quãng đường dài 1,5 km tương ứng với bao nhiêu mét (m)?\nĐáp án: 1500 m. Giải thích: 1 km = 1000 m nên 1,5 km = 1,5 × 1000 = 1500 m.\nCâu 5. Trên một thước đo học sinh, khoảng cách giữa vạch chia số 0 và vạch chia số 1 cm được chia đều làm 10 khoảng bằng nhau. ĐCNN của thước tương ứng bao nhiêu milimét (mm)?\nĐáp án: 1 mm. Giải thích: 1 cm = 10 mm; chia thành 10 khoảng bằng nhau nên mỗi khoảng là 1 mm.\nCâu 6. Trong không khí chuẩn, nitrogen chiếm khoảng bao nhiêu phần trăm thể tích?\nĐáp án: 78%. Giải thích: Nitrogen chiếm khoảng 78% thể tích không khí chuẩn.\nB. TỰ LUẬN\nCâu 1. Hãy nêu một số quy định an toàn trong phòng thực hành?\nĐáp án/Gợi ý giải:\nGợi ý theo nội dung tài liệu: mặc trang phục gọn gàng; sử dụng bảo hộ phù hợp như găng tay, khẩu trang, kính bảo vệ mắt khi cần; không ăn uống, đùa nghịch trong phòng thí nghiệm; không nếm/ngửi trực tiếp hóa chất; chỉ tiến hành thí nghiệm khi có hướng dẫn; nhận biết vật liệu nguy hiểm; giữ nơi làm việc gọn gàng và thu dọn, sắp xếp dụng cụ sau khi thực hành.\nCâu 2. a) Hãy nêu tính chất vật lí của oxygen.\nb) Hãy nêu tầm quan trọng của oxygen.\nc) Hãy nêu nguyên nhân, hậu quả của ô nhiễm không khí.\nd) Hãy nêu các giải pháp để bảo vệ môi trường không khí?\nĐáp án/Gợi ý giải:\na) Oxygen là chất khí không màu, không mùi, ít tan trong nước và nặng hơn không khí.\nb) Oxygen cần thiết cho hô hấp và sự cháy.\nc) Nguyên nhân tiêu biểu trong tài liệu: khí thải phương tiện giao thông, khí thải nhà máy, khói bụi...; hậu quả: ảnh hưởng sức khỏe, bệnh hô hấp, mưa acid, hiệu ứng nhà kính.\nd) Trồng và bảo vệ cây xanh/rừng; giảm và xử lí khí thải; hạn chế các hoạt động gây ô nhiễm không khí.\nCâu 3. Một nghiên cứu thực tế cho biết: Khi đốt cháy 1 lít xăng, cần 1950 lít oxygen và sinh ra 1248 lít khí carbon dioxide. Một ô tô khi chạy một quãng đường dài 400 km tiêu thụ hết 28 lít xăng. Coi oxygen chiếm 1/5 thể tích không khí.\na) Hãy tính thể tích không khí (lít) tối thiểu cần cung cấp để ô tô đốt cháy hết lượng xăng trên trong suốt quãng đường 100 km.\nb) Hãy tính thể tích khí carbon dioxide (lít) thải trực tiếp ra môi trường sau khi xe chạy quãng đường dài 100 km.\nĐáp án/Gợi ý giải:\nXe đi 100 km tiêu thụ: 28 × 100/400 = 7 lít xăng.\na) Oxygen cần: 7 × 1950 = 13 650 lít. Vì oxygen chiếm 1/5 thể tích không khí nên thể tích không khí tối thiểu = 13 650 × 5 = 68 250 lít.\nb) CO₂ tạo ra = 7 × 1248 = 8 736 lít.\nCâu 4. Thực hiện các phép đổi đơn vị sau:\n1) 1 m = ... cm = ... mm\n2) 2 km = ... m\n3) 1,5 lít = ... ml = ... cm³\n4) 2,5 giờ = ... phút = ... giây\n5) 3,5 kg = ... gam\n6) 5 cm = ... dm = ... m\n7) 1 m³ = ... lít = ... dm³\n8) 360 phút = ... giờ\n9) 1,5 ngày = ... giờ\nĐáp án/Gợi ý giải:\n1) 1 m = 100 cm = 1000 mm.\n2) 2 km = 2000 m.\n3) 1,5 lít = 1500 ml = 1500 cm³.\n4) 2,5 giờ = 150 phút = 9000 giây.\n5) 3,5 kg = 3500 gam.\n6) 5 cm = 0,5 dm = 0,05 m.\n7) 1 m³ = 1000 lít = 1000 dm³.\n8) 360 phút = 6 giờ.\n9) 1,5 ngày = 36 giờ."
+}
